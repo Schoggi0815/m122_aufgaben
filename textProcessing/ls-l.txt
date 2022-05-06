@@ -1,0 +1,11 @@
+total 28
+-rw-r--r-- 1 julien julien 127 Apr 20 09:42 Passwort.txt
+-rw-r--r-- 1 julien julien  71 Apr 20 09:42 Person.txt
+-rw-r--r-- 1 julien julien   0 Apr 20 09:42 UserAndPw.txt
+-rw-r--r-- 1 julien julien   0 Apr 20 09:42 UserKlasse.txt
+-rw-r--r-- 1 julien julien 450 Apr 20 09:42 fox1.txt
+-rw-r--r-- 1 julien julien 460 Apr 20 09:42 fox2.txt
+-rw-r--r-- 1 julien julien 454 Apr 20 09:42 fox3.txt
+-rw-r--r-- 1 julien julien   0 Apr 20 09:51 ls-l.txt
+-rw-r--r-- 1 julien julien 166 Apr 20 09:42 testfile.txt
+-rw-r--r-- 1 julien julien 219 Apr 20 09:51 umleitung.sh

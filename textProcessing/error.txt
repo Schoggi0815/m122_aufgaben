@@ -1,0 +1,12 @@
+
+Command 'Cat' not found, did you mean:
+
+  command 'dat' from deb liballegro4-dev (2:4.4.3.1-1)
+  command 'bat' from deb bacula-console-qt (9.4.2-2ubuntu5)
+  command 'cat' from deb coreutils (8.30-3ubuntu2)
+  command 'iat' from deb iat (0.1.3-7build1)
+  command 'pat' from deb dist (1:3.5-236-0.1build1)
+  command 'at' from deb at (3.1.23-1ubuntu1)
+
+Try: sudo apt install <deb name>
+
